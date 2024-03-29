@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-Hi there! I'm [Your Name]
+## Hi there! I'm [Your Name]
 I'm a PhD candidate in Machine Learning, deeply passionate about using data to unlock insights and build innovative solutions. Here's a quick overview of what you'll find in my profile:
 
 📚 Research Interests
